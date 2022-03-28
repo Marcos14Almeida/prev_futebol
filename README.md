@@ -16,9 +16,11 @@ O algoritmo ainda é impreciso, tanto devido a imprevisibilidade dos resultados 
 
 Baixe os arquivos e com o uso de algum compilador python com suporte para Matplotlib, Pandas e Sklearn instalados execute o código do arquivo ".py".
 
-## Screenshot
+## Resultado
+
+Em vermelho, azul e verde os resultados reais das partidas. Sendo vermelho derrota, azul empate e verde vitória do time 1. No eixo Z, é mostrado o resultado previsto.
 
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/prev_futebol/blob/master/result.jpg" width="200" title="Screenshot">
+  <img src="https://github.com/Marcos14Almeida/prev_futebol/blob/main/result.png" width="200" title="Screenshot">
   </a>
 </p>
