@@ -15,3 +15,10 @@ O algoritmo ainda é impreciso, tanto devido a imprevisibilidade dos resultados 
 ## Como Executar o projeto
 
 Baixe os arquivos e com o uso de algum compilador python com suporte para Matplotlib, Pandas e Sklearn instalados execute o código do arquivo ".py".
+
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/Marcos14Almeida/prev_futebol/blob/master/result.jpg" width="200" title="Screenshot">
+  </a>
+</p>
