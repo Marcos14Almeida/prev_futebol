@@ -18,7 +18,7 @@ Baixe os arquivos e com o uso de algum compilador python com suporte para Matplo
 
 ## Resultado
 
-Em vermelho, azul e verde os resultados reais das partidas. Sendo vermelho derrota, azul empate e verde vitória do time 1. No eixo Z, é mostrado o resultado previsto.
+Em vermelho, azul e verde os resultados reais das partidas. Sendo vermelho derrota, azul empate e verde vitória do time 1. No eixo Z, é mostrado o resultado previsto. Nota-se que nos resultados previstos como vitória há poucos pontos vermelhos e nos resultados previstos como derrota há poucos pontos verdes, demonstrando a eficácia do algoritmo em determinar o resultado.
 
 <p align="center">
   <img src="https://github.com/Marcos14Almeida/prev_futebol/blob/main/result.png" width="200" title="Screenshot">
