@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 
 
-Através do uso do método de classificação random forest, tento prever o resultado de partidas futuras.
+Através do uso do método de classificação random forest, tento prever o resultado de partidas de futebol futuras.
 
 ## Como usar o Projeto 
 
